@@ -1,0 +1,40 @@
+agu:
+  name: "Alex Gu"
+  url: "https://minimario.github.io/"
+  affiliation: "MIT"
+  img: "agu.jpg"
+gpoesia:
+  name: "Gabriel Poesia"
+  url: "https://gpoesia.com/"
+  affiliation: "Stanford"
+  img: "gpoesia.jpg"
+czhang:
+  name: "Cedegao Zhang"
+  url: "https://cedzhang.com/"
+  affiliation: "MIT"
+  img: "czhang.jpg"
+hzhou:
+  name: "Hattie Zhou"
+  url: "https://hattiezhou.com/"
+  affiliation: "Anthropic"
+  img: "hzhou.png"
+plu:
+  name: "Pan Lu"
+  url: "https://lupantech.github.io/"
+  affiliation: "Stanford"
+  img: "panlu.jpg"
+smishra:
+  name: "Swaroop Mishra"
+  url: "https://swarooprm.github.io/"
+  affiliation: "Google DeepMind"
+  img: "smishra.png"
+kchang:
+  name: "Kai-Wei Chang"
+  url: "https://web.cs.ucla.edu/~kwchang/"
+  affiliation: "UCLA, Alexa AI"
+  img: "kchang.png"
+asolar:
+  name: "Armando Solar-Lezama"
+  url: "https://people.csail.mit.edu/asolar/"
+  affiliation: "MIT"
+  img: "asolar.png"
