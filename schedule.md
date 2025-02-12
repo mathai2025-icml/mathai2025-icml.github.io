@@ -1,14 +1,16 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "The 4th Workshop on Mathematical Reasoning and AI"
+subtitle: "Pushing the Frontiers of AI for Mathematical Problem Solving, Discovery, and Reasoning"
 use-site-title: true
 ---
-<div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+<!-- <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   (West Meeting Room 118-120, Vancouver, December 14, 2024, <a href="https://neurips.cc/virtual/2024/workshop/84719" target="_blank">Website</a>)
-</div>
+</div> -->
 
 # Schedule
+
+TBD
 
 <!-- #### Friday, December 14th, 2023
 #### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
@@ -17,7 +19,7 @@ use-site-title: true
 #### Location: Room 217-219, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
 #### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
 
-<div class="container">
+<!-- <div class="container">
   <div class="row">
     <table class="table">
       <tr>
@@ -85,4 +87,4 @@ use-site-title: true
       </tr>
     </table>
   </div>
-</div>
+</div> -->

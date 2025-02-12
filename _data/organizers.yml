@@ -3,38 +3,39 @@ agu:
   url: "https://minimario.github.io/"
   affiliation: "MIT"
   img: "agu.jpg"
-gpoesia:
-  name: "Gabriel Poesia"
-  url: "https://gpoesia.com/"
-  affiliation: "Stanford"
-  img: "gpoesia.jpg"
-czhang:
-  name: "Cedegao Zhang"
-  url: "https://cedzhang.com/"
-  affiliation: "MIT"
-  img: "czhang.jpg"
-hzhou:
-  name: "Hattie Zhou"
-  url: "https://hattiezhou.com/"
-  affiliation: "Anthropic"
-  img: "hzhou.png"
-plu:
-  name: "Pan Lu"
-  url: "https://lupantech.github.io/"
-  affiliation: "Stanford"
-  img: "panlu.jpg"
-smishra:
-  name: "Swaroop Mishra"
-  url: "https://swarooprm.github.io/"
-  affiliation: "Google DeepMind"
-  img: "smishra.png"
-kchang:
-  name: "Kai-Wei Chang"
-  url: "https://web.cs.ucla.edu/~kwchang/"
-  affiliation: "UCLA, Alexa AI"
-  img: "kchang.png"
+
+bhashemi:
+  name: "Baran Hashemi"
+  url: "https://www.origins-cluster.de/ueber-uns/mitglieder/details?tx_ttaddress_listview%5Baction%5D=show&tx_ttaddress_listview%5Baddress%5D=381&tx_ttaddress_listview%5Bcontroller%5D=Address&cHash=8effd1e1294ef4fa37e354eaa61d5160"
+  affiliation: "ORIGINS Cluster"
+  img: "bhashemi.jpg"
+
+zqin:
+  name: "Zhizhen Qin"
+  url: "https://zhizhenqin.github.io/"
+  affiliation: "UCSD, AWS"
+  img: "zqin.jpeg"
+
 asolar:
   name: "Armando Solar-Lezama"
   url: "https://people.csail.mit.edu/asolar/"
   affiliation: "MIT"
   img: "asolar.png"
+
+skong:
+  name: "Soonho Kong"
+  url: "https://soonhokong.github.io"
+  affiliation: "AWS"
+  img: "skong.jpeg"
+
+fcharton:
+  name: "François Charton"
+  url: "https://sdascoli.github.io/author/francois-charton/"
+  affiliation: "Meta"
+  img: "fcharton.jpg"
+
+laniva:
+  name: "Leni Aniva"
+  url: "https://leni.sh"
+  affiliation: "Stanford"
+  img: "laniva.jpg"

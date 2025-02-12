@@ -1,21 +1,22 @@
 ---
 layout: page
 title: MATH-AI
-subtitle: "The 4th Workshop on Mathematical Reasoning and AI"
+subtitle: "Pushing the Frontiers of AI for Mathematical Problem Solving, Discovery, and Reasoning"
 use-site-title: true
 ---
-<div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
+<!-- <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
   (West Meeting Room 118-120, Vancouver, December 14, 2024, <a href="https://neurips.cc/virtual/2024/workshop/84719" target="_blank">Website</a>)
-</div>
+</div> -->
 
 
 
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" />
 
-# Previous MATH-AI Workshops
+# Related MATH-AI Workshops
 
 <div class="container" style="margin-bottom: 10px;"></div>
+- 4th MATH-AI Workshop at NeurIPS'24: [The 4th Workshop on Mathematical Reasoning and AI](https://mathai2024.github.io)
 - [AI for Math Workshop @ ICML 2024](https://sites.google.com/view/ai4mathworkshopicml2024)
 - 3rd MATH-AI Workshop at NeurIPS'23: [The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2023.github.io/)
 - 2nd MATH-AI Workshop at NeurIPS'22: [Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
@@ -24,27 +25,28 @@ use-site-title: true
 
 <div class="container" style="margin-bottom: 10px;"></div>
 
-# Reviewer Nomination
+<!-- # Reviewer Nomination
 
-If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](https://forms.gle/BssMrXeGgfMfLLFH9).
+If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](https://forms.gle/BssMrXeGgfMfLLFH9). -->
 
 # Overview
 
-Mathematical reasoning is a fundamental aspect of human cognition that has been studied by scholars ranging from philosophers to cognitive scientists and neuroscientists. Mathematical reasoning involves analyzing complex information, identifying patterns and relationships, and drawing logical conclusions from evidence. It is central to many applications in science, engineering, finance, and everyday contexts.
+Mathematical reasoning is a fundamental aspect of human cognition, studied by philosophers, logicians, and neuroscientists. It is a cyclical process of analyzing complex information, identifying patterns and relationships, drawing logical conclusions from evidence, and refining generalizations through refutations. 
 
-Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond. 
+In recent years, large language models (LLMs) have reached a significant inflection point in mathematical reasoning, with models such as o3-mini and DeepSeek-R1. Meanwhile, as mathematical problem solving benchmarks start to saturate, more challenging targets are currently being explored. However, models have made considerable progress on these benchmarks, and there is still a long way to go when it comes to using AI for these expert-level mathematics tasks. At the same time, advancements in LLMs have triggered a paradigm shift in the broader intersection of artificial intelligence and experimental mathematics, giving rise to novel methods for generating conjectures, proving theorems, and fostering new forms of human–machine collaboration in mathematical discovery.
 
-Our proposed workshop is centered on the intersection of deep learning and mathematical reasoning, with an emphasis on, but not limited to, large language models. 
-Our guiding theme is:
+Our proposed workshop focuses on the intersection of deep learning, experimental mathematics, and mathematical reasoning, with a particular emphasis on leveraging the recent progress made with large language models. Our guiding theme is:
 
-*“To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?”*
+*"How can AI be used to expand the boundaries of human discoveries in mathematics?"*
 
-To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:
-- **Humans vs. machines**: A comparative study of human-level mathematical reasoning and current AI techniques. How do they differ, complement one another, or intersect?
-- **Measuring mathematical reasoning**: How do we design benchmarks which accurately evaluate mathematical reasoning abilities, especially in an era of large language models?
-- **New capabilities**: How do we move beyond our current techniques?
-- **Education**: What role can deep learning models play in mathematics education, especially in contexts with limited educational resources?
-- **Applications**: What applications could AI systems enable in the near- and long-term? Example domains include software verification, sciences, engineering, finance, education, and mathematics itself.
+In pursuing this question, we aim to bridge the gap between computer scientists and mathematicians, moving beyond toy-datasets towards exploring genuine applications in research-level mathematics. This year, we have confirmed speakers working in AI, pure mathematics, and a combination of both. Our objective is to foster a lively and constructive dialogue on areas including, but not limited, to the following:
+
+- **AI for mathematical problem solving**: Building off of the success of today's frontier models, how can we leverage LLMs to solve problems at the college level and beyond?
+- **AI for mathematical discovery**: How can modern deep learning methods uncover new patterns, confirm or refute conjectures, and enable high-precision computation while remaining interpretable and offering strong generalization? Can AI assist with research-level mathematics?
+- **Human-AI collaboration in mathematics**: While machines are great at large-scale pattern recognition, humans are able to think more abstractly and develop intuition. How can humans and machines complement each other productively?
+- **Measuring progress in mathematics**: How do we design benchmarks that push the frontier of what LLMs are able to do when it comes to mathematics? What are the milestones in AI for math?
+
+
 
 
 <hr>
@@ -75,7 +77,7 @@ To address this question, we aim to bring together a diverse group of scholars f
     {% endif %}
     {% endfor %}
   </div>
-<a href="speakers">More Info</a>
+<!-- <a href="speakers">More Info</a> -->
 </div>
 
 <hr>
@@ -119,6 +121,7 @@ To address this question, we aim to bring together a diverse group of scholars f
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
+- [NeurIPS'23 Workshop on MATH-AI - The 4th Workshop on Mathematical Reasoning and AI](https://mathai2024.github.io/)
 - [ICML'24 Workshop on AI4MATH - AI for Math Workshop @ ICML 2024](https://sites.google.com/view/ai4mathworkshopicml2024)
 - [NeurIPS'23 Workshop on MATH-AI - The 3rd Workshop on Mathematical Reasoning and AI](https://mathai2023.github.io/)
 - [NeurIPS'22 Workshop on MATH-AI - Toward Human-Level Mathematical Reasoning](https://mathai2022.github.io/)
@@ -132,4 +135,4 @@ To address this question, we aim to bring together a diverse group of scholars f
 
 <hr>
 
-Contact: <mathai.neurips2024@gmail.com>.
+Contact: <mathai.icml2025@gmail.com>.
